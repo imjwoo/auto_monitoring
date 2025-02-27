@@ -10,7 +10,7 @@ import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Solution05 {
+public class App {
     public static void main(String[] args) {
         Monitoring monitoring = new Monitoring();
 //        monitoring.getNews("팔란티어", 10, 1, "date");
